@@ -9,10 +9,7 @@ This guide has been tested under Fedora Linux 39 Gnome but you can easily adapt 
 ## Table of Contents
 
 1. [Scaling font](#scaling-font)
-2. [Compatibility Issues](#compatibility-issues)
-3. [Optimizing Performance](#optimizing-performance)
-4. [Troubleshooting](#troubleshooting)
-5. [Conclusion](#conclusion)
+2. [Improve sound](#improve-sound)
 
 # Scaling font 
 
@@ -23,6 +20,9 @@ So, how can you address this issue?
 The solution involves installing [Gnome tweaks] ( https://gitlab.gnome.org/GNOME/gnome-tweaks), which can be easily installed using your distribution's package manager. Once installed, open Gnome Tweaks and navigate to the 'Fonts' section. Set the scaling to 1.20, and you will notice a more balanced and visually pleasing display."
 
 
+# Improve sound 
+To improve the sound download "Easy Effect" and import the profile you find in the repository this will greatly improve the sound.
+Remember through the Easy Effect settings to set auto start so that the service starts together with the system.
 
 ## Conclusion
 
